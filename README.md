@@ -1,4 +1,4 @@
-ElasNaTech-desafio-aula-07
+ElasNaTech-desafio-07
 
 DESAFIO FUNDO FIXO E ICONES COM ZOOM
 
